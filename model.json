@@ -1,0 +1,26 @@
+{
+	
+	"applications": [
+		"app_id",
+		"user_id",
+		"name",
+		"key",
+		"secret"
+	],
+
+	"users": [
+		"user_id",
+		"fname",
+		"lname",
+		"email",
+		"password"
+	],
+
+	"container": [
+		"container_id",
+		"app_id",
+		"user_id",
+		"name"
+	]
+	
+}
